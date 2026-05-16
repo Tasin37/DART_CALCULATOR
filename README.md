@@ -2,28 +2,19 @@ Dart Calculator
 
 A simple and user-friendly command-line calculator built using Dart.
 
-Features
-Addition
-Subtraction
-Multiplication
-Division
-Modulus
-Power Calculation
-Square Root
-Input Validation
-Loop-based Menu System
-Error Handling
-User-Friendly Terminal Interface
+1. Features
+2. Addition
+3. Subtraction
+4. Multiplication
+5. Division
+6. Modulus
+7. Power Calculation
+8. Square Root
+9. Input Validation
+10. Loop-based Menu System
+11. Error Handling
+12. User-Friendly Terminal Interface
 
-Project Structure:
-project_folder/
-│
-├── bin/
-│   └── project_name.dart
-│
-├── pubspec.yaml
-│
-└── README.md
 
 Example Output:
 =================================
@@ -41,14 +32,18 @@ Choose an option:
 8. Exit
 
 Enter your choice (1-8): 1
+
 Enter first number: 10
+
 Enter second number: 5
 
 Result = 15.0
 
 
 Author:
+
 Tasin37
 
-License
+License:
+
 This project is open-source and free to use.
